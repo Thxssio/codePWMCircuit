@@ -5,7 +5,7 @@
 */
 
 
-const int arrayPWM[] = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+const int arrayPWM[] = {500,500,750,500,1250,500,2000,500,1250,500,750,500,500};
 const int valor_arrayPWM = 13;
 
 const int pinoPWM1 = 10;
